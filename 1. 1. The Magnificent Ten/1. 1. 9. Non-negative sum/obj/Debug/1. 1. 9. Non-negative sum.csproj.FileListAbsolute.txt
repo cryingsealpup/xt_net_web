@@ -1,0 +1,12 @@
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 9. Non-negative sum\bin\Debug\_1._1._9.Non_negative_sum.exe.config
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 9. Non-negative sum\bin\Debug\_1._1._9.Non_negative_sum.exe
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 9. Non-negative sum\bin\Debug\_1._1._9.Non_negative_sum.pdb
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 9. Non-negative sum\obj\Debug\1. 1. 9. Non-negative sum.csproj.CoreCompileInputs.cache
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 9. Non-negative sum\obj\Debug\_1._1._9.Non_negative_sum.exe
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 9. Non-negative sum\obj\Debug\_1._1._9.Non_negative_sum.pdb
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 9. Non-negative sum\bin\Debug\_1._1._9.Non_negative_sum.exe.config
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 9. Non-negative sum\bin\Debug\_1._1._9.Non_negative_sum.exe
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 9. Non-negative sum\bin\Debug\_1._1._9.Non_negative_sum.pdb
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 9. Non-negative sum\obj\Debug\1. 1. 9. Non-negative sum.csproj.CoreCompileInputs.cache
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 9. Non-negative sum\obj\Debug\_1._1._9.Non_negative_sum.exe
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 9. Non-negative sum\obj\Debug\_1._1._9.Non_negative_sum.pdb

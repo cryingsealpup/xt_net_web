@@ -1,0 +1,14 @@
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 5. Sum of numbers\bin\Debug\_1._1._5.Sum_of_numbers.exe.config
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 5. Sum of numbers\bin\Debug\_1._1._5.Sum_of_numbers.exe
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 5. Sum of numbers\bin\Debug\_1._1._5.Sum_of_numbers.pdb
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 5. Sum of numbers\obj\Debug\1. 1. 5. Sum of numbers.csproj.CoreCompileInputs.cache
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 5. Sum of numbers\obj\Debug\_1._1._5.Sum_of_numbers.exe
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 5. Sum of numbers\obj\Debug\_1._1._5.Sum_of_numbers.pdb
+C:\Users\matrix\Documents\xt_net_web\1. 1. The Magnificent Ten\1. 1. 5. Sum of numbers\obj\Debug\1. 1. 5. Sum of numbers.csprojAssemblyReference.cache
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 5. Sum of numbers\bin\Debug\_1._1._5.Sum_of_numbers.exe.config
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 5. Sum of numbers\bin\Debug\_1._1._5.Sum_of_numbers.exe
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 5. Sum of numbers\bin\Debug\_1._1._5.Sum_of_numbers.pdb
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 5. Sum of numbers\obj\Debug\1. 1. 5. Sum of numbers.csprojAssemblyReference.cache
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 5. Sum of numbers\obj\Debug\1. 1. 5. Sum of numbers.csproj.CoreCompileInputs.cache
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 5. Sum of numbers\obj\Debug\_1._1._5.Sum_of_numbers.exe
+C:\Users\matrix\Documents\xt_net_web\1.1. The Magnificent Ten\1. 1. 5. Sum of numbers\obj\Debug\_1._1._5.Sum_of_numbers.pdb
