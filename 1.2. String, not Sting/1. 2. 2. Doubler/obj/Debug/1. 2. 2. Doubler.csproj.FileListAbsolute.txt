@@ -1,0 +1,6 @@
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 2. Doubler\bin\Debug\_1._2._2.Doubler.exe.config
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 2. Doubler\bin\Debug\_1._2._2.Doubler.exe
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 2. Doubler\bin\Debug\_1._2._2.Doubler.pdb
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 2. Doubler\obj\Debug\1. 2. 2. Doubler.csproj.CoreCompileInputs.cache
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 2. Doubler\obj\Debug\_1._2._2.Doubler.exe
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 2. Doubler\obj\Debug\_1._2._2.Doubler.pdb
