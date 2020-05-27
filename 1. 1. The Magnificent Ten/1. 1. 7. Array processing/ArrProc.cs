@@ -12,7 +12,7 @@ namespace Array_processing
         private static Random _Rnd = new Random();
         public static val GetRandomColors<val> ()
         {
-            Array color = Enum.GetValues (typeof (val));
+            Array color = Enum.GetValues(typeof(val));
             return (val) color.GetValue(_Rnd.Next(color.Length));
         }
 

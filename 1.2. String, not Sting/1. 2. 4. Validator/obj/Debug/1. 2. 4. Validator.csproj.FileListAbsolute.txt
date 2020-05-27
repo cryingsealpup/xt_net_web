@@ -1,0 +1,7 @@
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 4. Validator\bin\Debug\_1._2._4.Validator.exe.config
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 4. Validator\bin\Debug\_1._2._4.Validator.exe
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 4. Validator\bin\Debug\_1._2._4.Validator.pdb
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 4. Validator\obj\Debug\1. 2. 4. Validator.csprojAssemblyReference.cache
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 4. Validator\obj\Debug\1. 2. 4. Validator.csproj.CoreCompileInputs.cache
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 4. Validator\obj\Debug\_1._2._4.Validator.exe
+C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 4. Validator\obj\Debug\_1._2._4.Validator.pdb
