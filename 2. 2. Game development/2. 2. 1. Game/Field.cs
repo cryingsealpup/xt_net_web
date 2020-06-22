@@ -10,7 +10,7 @@ namespace Game_development
     {
         public static int width, heigth;
 
-        public char[,] map = new char[width, heigth];
+        public char[,] field = new char[width, heigth];
 
         public Field(int a, int b)
         {
