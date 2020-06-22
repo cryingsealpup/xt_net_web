@@ -1,7 +1,0 @@
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 3. Lowercase\bin\Debug\_1._2._3.Lowercase.exe.config
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 3. Lowercase\bin\Debug\_1._2._3.Lowercase.exe
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 3. Lowercase\bin\Debug\_1._2._3.Lowercase.pdb
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 3. Lowercase\obj\Debug\1. 2. 3. Lowercase.csprojAssemblyReference.cache
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 3. Lowercase\obj\Debug\1. 2. 3. Lowercase.csproj.CoreCompileInputs.cache
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 3. Lowercase\obj\Debug\_1._2._3.Lowercase.exe
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 3. Lowercase\obj\Debug\_1._2._3.Lowercase.pdb

@@ -1,7 +1,0 @@
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 1. Averages\bin\Debug\_1._2._1.Averages.exe.config
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 1. Averages\bin\Debug\_1._2._1.Averages.exe
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 1. Averages\bin\Debug\_1._2._1.Averages.pdb
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 1. Averages\obj\Debug\1. 2. 1. Averages.csprojAssemblyReference.cache
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 1. Averages\obj\Debug\1. 2. 1. Averages.csproj.CoreCompileInputs.cache
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 1. Averages\obj\Debug\_1._2._1.Averages.exe
-C:\Users\matrix\Documents\xt_net_web\1.2. String, not Sting\1. 2. 1. Averages\obj\Debug\_1._2._1.Averages.pdb
