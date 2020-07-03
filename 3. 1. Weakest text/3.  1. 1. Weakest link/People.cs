@@ -11,6 +11,19 @@ namespace Weakest_link
         private Human<T> Current { get; set; }
         public int Count { get; private set; }
 
+        public IEnumerator<T> GetEnumerator()
+        {
+            Human<T> Human = First;
+
+            do
+            {
+                yield return Human.Value;
+                Human = Human.Next;
+            } while (Human != First);
+
+        }
+        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
+
         public void Add(T value)
         {
             if (First == null)
@@ -54,17 +67,5 @@ namespace Weakest_link
             Current = nextHuman;
             Count--;
         }
-        public IEnumerator<T> GetEnumerator()
-        {
-            Human<T> Human = First;
-
-            do
-            {
-                yield return Human.Value;
-                Human = Human.Next;
-            } while (Human != First);
-
-        }
-        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
     }
 }
