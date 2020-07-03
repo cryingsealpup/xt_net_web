@@ -28,10 +28,10 @@ namespace Weakest_link
             int K = GetTheNumber();
             СrossOffTheList(N, K);
         }
-        public static void СrossOffTheList(int size, int steps = 1)
+        public static void СrossOffTheList(int circleSize, int steps = 1)
         {
             var circle = new People<int>();
-            foreach (int i in Enumerable.Range(1, size)) circle.Add(i);
+            foreach (int i in Enumerable.Range(1, circleSize)) circle.Add(i);
 
             int counter = 0;
             while (circle.Count >= steps)
