@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. 1. 1. Weakest link", "3.  1. 1. Weakest link\3. 1. 1. Weakest link.csproj", "{58C700DA-C67A-4112-AA22-D343815EB09E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. 1. 2. Text analysis", "3. 1. 2. Text analysis\3. 1. 2. Text analysis.csproj", "{89424695-CFCE-4D53-B3E9-3F43F3553C94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{58C700DA-C67A-4112-AA22-D343815EB09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58C700DA-C67A-4112-AA22-D343815EB09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58C700DA-C67A-4112-AA22-D343815EB09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89424695-CFCE-4D53-B3E9-3F43F3553C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89424695-CFCE-4D53-B3E9-3F43F3553C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89424695-CFCE-4D53-B3E9-3F43F3553C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89424695-CFCE-4D53-B3E9-3F43F3553C94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

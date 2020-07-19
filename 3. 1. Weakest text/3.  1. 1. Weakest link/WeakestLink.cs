@@ -13,9 +13,8 @@ namespace Weakest_link
             int value;
             while (true)
             {
-                if (int.TryParse(Console.ReadLine(), out value)) break;
-                else
-                    Console.WriteLine("Некорректный ввод! Попробуйте ещё раз");
+                if (int.TryParse(Console.ReadLine(), out value) && value > 0) break;
+                else Console.WriteLine("Некорректный ввод! Попробуйте ещё раз");
             }
             return value;
 
@@ -34,7 +33,7 @@ namespace Weakest_link
             foreach (int i in Enumerable.Range(1, circleSize)) circle.Add(i);
 
             int counter = 0;
-            while (circle.Count >= steps)
+            while (circle.Count >= steps && circle.Count > 1)
             {
                 circle.Step(steps);
                 circle.RemoveCurrent();
