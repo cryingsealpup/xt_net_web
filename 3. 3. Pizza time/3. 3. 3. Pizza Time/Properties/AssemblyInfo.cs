@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("3. 1. 2. Dynamic array")]
+[assembly: AssemblyTitle("3. 3. 3. Pizza Time")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("3. 1. 2. Dynamic array")]
+[assembly: AssemblyProduct("3. 3. 3. Pizza Time")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("fd5179c6-dedf-4f95-a7ca-7c34c8c9beaf")]
+[assembly: Guid("90f95777-5a09-476e-8812-720a1c839d97")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
