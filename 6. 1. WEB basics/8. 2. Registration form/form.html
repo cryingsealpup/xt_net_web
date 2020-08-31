@@ -1,0 +1,103 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Registration form</title>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+
+        label,
+        h1, b {
+            margin-block-start: 0.3em;
+            color: white;
+            margin-block-end: 0;
+            font-weight: lighter;
+        }
+
+        .container {
+            width: 500px;
+            background-color: #0191d0;
+            padding: 20px;
+            border: 3px solid #0077b5;
+        }
+
+        input[type=text],
+
+        textarea {
+            width: 78%;
+            padding: 4px;
+            margin: 5px 0 22px 0;
+            display: block;
+            border: none;
+        }
+
+        input[type=password],
+        input[type=passwordrpt] {
+            display: table;
+            padding: 4px;
+            margin: 5px 0 22px 0;
+            border: none;
+            width: 100%;
+        }
+
+        .passwordRight {
+            margin-left: 7%;
+        }
+
+        .passwords {
+            display: flex;
+        }
+
+        div {
+            padding: 5px 0;
+        }
+
+        hr {
+            border: 1px solid #f1f1f1;
+            margin-bottom: 25px;
+            margin: 10px -20px 36px;
+            border: 0;
+            border-top: 1px solid white;
+        }
+
+        .registerbtn {
+            background-color: #ffe080;
+            padding: 5px 5px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 18%;
+        }
+
+        .registerbtn:hover {
+            opacity: 1;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1> Регистрация</h1>
+        <hr>
+
+        <label for="email"><b>E-mail</b></label>
+        <input type="text" name="email" required>
+        <div class="passwords">
+            <div class="passwordLeft">
+                <label for="psw"><b>Пароль</b></label>
+                <input type="password" name="psw" required>
+            </div>
+            <div class="passwordRight">
+                <label for="psw-repeat"><b>Ещё раз</b></label>
+                <input type="passwordrpt" name="psw-repeat" required>
+
+            </div>
+        </div>
+        <button type="submit" class="registerbtn">Отправить</button>
+    </div>
+
+</body>
+
+</html>

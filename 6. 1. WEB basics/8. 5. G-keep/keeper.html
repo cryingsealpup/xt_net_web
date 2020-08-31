@@ -1,0 +1,77 @@
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>G-keep</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="searchField">
+        <span class="material-icons">
+            search
+            </span>
+        <input
+          id="searchText"
+          type="text"
+          maxlength="256"
+          placeholder="Поиск"
+        />
+      </div>
+    </header>
+
+    <div id="notes"></div>
+    <div class="disable" id="addForm">
+      <div class="noteForm">
+        <div>
+          <input
+            class="heading"
+            autocomplete="off"
+            type="text"
+            placeholder="Введите заголовок"
+            id="noteHeadCreate"
+          />
+        </div>
+        <div
+          contenteditable="true"
+          class="textarea"
+          placeholder="Текст заметки"
+          id="noteTextCreate"
+        ></div>
+        <div class="buttons">
+          <button class="btn" id="create">Создать</button>
+          <button class="btn" id="addFormClose">Закрыть</button>
+        </div>
+      </div>
+    </div>
+    <div class="disable" id="changeForm">
+      <div class="noteForm">
+        <div>
+          <input
+            class="heading"
+            autocomplete="off"
+            type="text"
+            placeholder="Введите заголовок"
+            id="noteHeadChange"
+          />
+        </div>
+        <div
+          class="textarea"
+          contenteditable="true"
+          placeholder="Текст заметки"
+          id="noteTextChange"
+        ></div>
+        <hr />
+        <div class="buttons">
+          <button class="btn" id="save">Сохранить</button>
+          <button class="btn" id="close">Закрыть</button>
+        </div>
+      </div>
+    </div>
+    <button class="add" id="addNote">+</button>
+    <script src="scripts/script.js" type="module"></script>
+  </body>
+</html>
